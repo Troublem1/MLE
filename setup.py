@@ -5,5 +5,5 @@ setup(name='MultiLabel_Encoder',
       author="Emmanuel Siaw Darko",
       author_email="immanuelsiawdarko@gmail.com"
       description='An Extended Transformer version of LabelEncoder that preprocesses more than one column in a dataset.',
-      packages =['MultiLabelEncoder'],
+      packages =['MLE_Trans'],
       zip_safe = False)
