@@ -2,7 +2,14 @@ import pandas as pd
 from sklearn.base import TransformerMixin, BaseEstimator
 from sklearn.preprocessing import LabelEncoder
 
-class LabelsEncodeTransformer(BaseEstimator, TransformerMixin):
+class MLETransformer(BaseEstimator, TransformerMixin):
+        '''
+        Allows the user enter a set of columns with categorical entries and preprocesses them into numeric values
+        Args:
+            cols: list of column names 
+        Returns:
+            categorical entries and preprocesses them into numeric values.
+        '''
 
     def __init__ (self, cols):
         self.cols = cols
@@ -22,6 +29,13 @@ class LabelsEncodeTransformer(BaseEstimator, TransformerMixin):
         return self
     
     def transform(self, X):
+        '''
+        returns self of X
+        Args:
+            X: labels dataframe 
+        Returns:
+            Transformed Dataframe
+        '''
         Xt = X.copy()
         for i in self.cols:
             self.labeldict[i] = list(Xt[i].unique())
@@ -29,7 +43,7 @@ class LabelsEncodeTransformer(BaseEstimator, TransformerMixin):
             self.codedict[i] = list(Xt[i].unique())
         return Xt
     
-    def _disp(self , key='key'):
+    def _display(self , key='key'):
         
         '''Display's a dict of codes and labels
         Args:
