@@ -13,36 +13,41 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
  -----------------------------------------------
 
 <body>
-# <a id = 'Installation Dependencies'>  Installation Dependencies <a/>
+<h2 id = 'Installation Dependencies'> Installation Dependencies <h2/>
 MultiLabel-Transformer requires:
 Python (>= 3.6)
 scikit-learn(>=0.23.2)
 pandas (>= 1.1.2)
 
 
-<a id = 'Installation'> #Installation <a/>
+<h2 id = 'Installation'> Installation <h2/>
 
 Use pip to install, if you already have a working installation of sckit-learn and pandas
-<section>
+
 - <code>pip install -U MultiLabel_Transformer<code/>
+
 Else:
+
 - <code>conda install MultiLabel_Transformer<code/>
-<section>
-<a id = 'Development'>  # Development<a/>
+
+
+<h2 id = 'Development'>  # Development<h2/>
 We welcome new contributors of all experience levels.
 Important links
 - Official source code repo: https://github.com/Troublem1/MLE
+
 - Download releases: https://pypi.org/project/MultiLabel-Transformer/
+
 - Issue tracker: https://github.com/Troublem1/MLE/issues
 
-<a id = 'Contributing'> # Contributing<a/>:
+<h2 id = 'Contributing'>  Contributing<h2/>:
 interested in contributing?, fork, clone and started!!
 
 
-<a id = 'Help and Support'>#  Help and Support<a/>
+<h2 id = 'Help and Support'> Help and Support<h2/>
 Documentation, Code Refinery and Improvements
 
 
-<a id = 'Acknowedgement'> # Acknowedgement:<a/>
+<h2 id = 'Acknowedgement'> Acknowedgement:<h2/>
 Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
 <body/>
