@@ -43,9 +43,9 @@ ELSE if you have conda:
 
 
 
-<h2 id = 'Development'>  Development<h2/>
+<h3 id = 'Development'>  Development<h3/>
 
-<p>We welcome new contributors of all experience levels.<p/>
+#### We welcome new contributors of all experience levels.
 
 
 Important links
@@ -59,28 +59,32 @@ Important links
 
 
 
-<h2 id = 'Contributing'>  Contributing:<h2/>
 
-interested in contributing?, fork, clone and started!!
+<h3 id = 'Contributing'>  Contributing:<h3/>
 
-
-
+#### interested in contributing?, fork, clone and started!!
 
 
 
 
 
 
-<h2 id = 'Help and Support'> Help and Support<h2/>
-
-Documentation, Code Refinery and Improvements
 
 
 
 
+<h3 id = 'Help and Support'> Help and Support<h3/>
+
+#### Documentation, Code Refinery and Improvements
 
 
-<h3 < id = 'Acknowedgement'> Acknowedgement:<h2/>
 
-Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
+
+
+
+
+
+<h3 < id = 'Acknowedgement'> Acknowedgement:<h3/>
+
+#### Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
 
