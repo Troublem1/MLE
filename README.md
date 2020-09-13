@@ -68,7 +68,9 @@ well then, fork, clone and started!!
 
 <h2 id = 'Help and Support'> Help and Support<h2/>
 
-##### Documentation, Code Refinery and Improvements
+#####
+
+Documentation, Code Refinery and Improvements
 
 
 
