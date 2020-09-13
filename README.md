@@ -37,3 +37,50 @@ ELSE if you have conda:
 
     conda install MultiLabel_Transformer
 
+
+
+
+
+
+
+<h2 id = 'Development'>  Development<h2/>
+
+<p>We welcome new contributors of all experience levels.<p/>
+
+
+Important links
+- Official source code repo: [here]('https://github.com/Troublem1/MLE') 
+- Download releases: [here](https://pypi.org/project/MultiLabel-Transformer/)
+- Issue tracker: [here](https://github.com/Troublem1/MLE/issues)
+
+
+
+
+
+
+
+<h2 id = 'Contributing'>  Contributing:<h2/>
+
+interested in contributing?, fork, clone and started!!
+
+
+
+
+
+
+
+
+
+<h2 id = 'Help and Support'> Help and Support<h2/>
+
+Documentation, Code Refinery and Improvements
+
+
+
+
+
+
+<h3 < id = 'Acknowedgement'> Acknowedgement:<h2/>
+
+Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
+
