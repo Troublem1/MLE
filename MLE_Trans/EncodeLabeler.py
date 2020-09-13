@@ -3,14 +3,13 @@ from sklearn.base import TransformerMixin, BaseEstimator
 from sklearn.preprocessing import LabelEncoder
 
 class MLETransformer(BaseEstimator, TransformerMixin):
-        '''
+    '''
         Allows the user enter a set of columns with categorical entries and preprocesses them into numeric values
         Args:
             cols: list of column names 
         Returns:
             categorical entries and preprocesses them into numeric values.
-        '''
-
+    '''
     def __init__ (self, cols):
         self.cols = cols
         self.codedict = {} # dict to take codes
