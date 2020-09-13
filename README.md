@@ -24,12 +24,9 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 
 
-
-
-
 <h3 id = 'Installation'> Installation <h3/>
 
-Use pip to install, if you already have a working installation of sckit-learn and pandas
+##### Use pip to install, if you already have a working installation of sckit-learn and pandas
 
     pip install -U MultiLabel_Transformer
 
@@ -41,10 +38,8 @@ ELSE if you have conda:
 
 
 
-
-
 <h2 id = 'Development'>  Development<h2/>
-
+####
 We welcome new contributors of all experience levels.
 
 
@@ -63,12 +58,8 @@ Important links
 
 <h2 id = 'Contributing'>  Contributing:<h2/>
 
-interested in contributing?, fork, clone and started!!
-
-
-
-
-
+##### Interested in contributing?
+well then, fork, clone and started!!
 
 
 
@@ -76,11 +67,7 @@ interested in contributing?, fork, clone and started!!
 
 <h2 id = 'Help and Support'> Help and Support<h2/>
 
-Documentation, Code Refinery and Improvements
-
-
-
-
+##### Documentation, Code Refinery and Improvements
 
 
 
