@@ -24,10 +24,6 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 
 
-<h2 id='How To Use'> How To Use <h2/>
-
-to be filled
-
 
 <h3 id = 'Installation'> Installation <h3/>
 
@@ -40,7 +36,11 @@ ELSE if you have conda:
     conda install MultiLabel_Transformer
 
 
+<h2 id='How To Use'> How To Use <h2/>
 
+####
+
+to be filled...
 
 
 <h2 id = 'Development'>  Development<h2/>
