@@ -1,19 +1,16 @@
-# MLE_Transformer
->A  transformer that encodes multiple categorical columns in a any workflow.
+# MultiLabel-Transformer
+MultiLabel-Transformer is an extended version of a LabelEncode, such that, it encodes multiple categorical columns to numeric in any workflow or pipeline. It was built upon Sciki-learn and distributed under the GPL-3.0 License.
+
 
 ## Content
-- Installation Dependencies
-- Installation
-- Development
-- Contributing
-- Help and Support
-- Acknowedgement
-
-
-# MultiLabel-Transformer
-MultiLabel-Transformer is an extended version of a LabelEncoder, built on top of Sciki-learn and distributed under the GPL-3.0 License
-
------------------------------------------------
+- <a href='#Installation Dependencies'>Installation Dependencies<a/>
+- <a href='#Installation Dependencies'>Installation
+- <a href='#Development'>Development<a/>
+- <a href='#Contributing'>Contributing<a/>
+- <a href='#Help and Support'>Help and Support<a/>
+- <a href='#Acknowedgement'>Acknowedgement<a/>
+ 
+ -----------------------------------------------
 
 # Installation Dependencies
 MultiLabel-Transformer requires:
@@ -22,12 +19,11 @@ scikit-learn(>=0.23.2)
 pandas (>= 1.1.2)
 
 # Installation 
-Use pip to install if you already have a working installation of sckit-learn and pandas
+Use pip to install, if you already have a working installation of sckit-learn and pandas
 
 <code>pip install -U MultiLabel_Transformer<code/>
 
-> OR
-
+# Else:
 <code>conda install MultiLabel_Transformer<code/>
 
 
@@ -42,7 +38,7 @@ Issue tracker: https://github.com/Troublem1/MLE/issues
 interested in contributing?, fork, clone and started!!
 
 # Help and Support
-Documentation , Code Refinery and Improvements
+Documentation, Code Refinery and Improvements
 
 # Acknowedgement:
-Special thanks to worldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
+Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
