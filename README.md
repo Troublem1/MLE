@@ -16,15 +16,20 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 <h2 id = 'Installation Dependencies'> Installation Dependencies <h2/>
 
-##### MultiLabel-Transformer requires:
+#### MultiLabel-Transformer requires:
 - Python (>= 3.6)
 - scikit-learn(>=0.23.2)
 - pandas(>= 1.1.2)
 
 
+
+
+
+
+
 <h3 id = 'Installation'> Installation <h3/>
 
-Use pip to install, if you already have a working installation of sckit-learn and pandas
+#### Use pip to install, if you already have a working installation of sckit-learn and pandas
 
 - pip install -U MultiLabel_Transformer
 
