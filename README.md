@@ -3,12 +3,12 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 
 ## Content
-- <a href='#Installation Dependencies'>Installation Dependencies<a/>
-- <a href='#Installation Dependencies'>Installation
-- <a href='#Development'>Development<a/>
-- <a href='#Contributing'>Contributing<a/>
-- <a href='#Help and Support'>Help and Support<a/>
-- <a href='#Acknowedgement'>Acknowedgement<a/>
+- <a href='Installation Dependencies'>Installation Dependencies<a/>
+- <a href='Installation Dependencies'>Installation
+- <a href='Development'>Development<a/>
+- <a href='Contributing'>Contributing<a/>
+- <a href='Help and Support'>Help and Support<a/>
+- <a href='Acknowedgement'>Acknowedgement<a/>
  
  -----------------------------------------------
 
