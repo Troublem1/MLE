@@ -39,9 +39,9 @@ ELSE if you have conda:
 
 <h2 id = 'Development'>  Development<h2/>
 
+####
 
 We welcome new contributors of all experience levels.
-
 
 Important links
 
@@ -76,6 +76,8 @@ Documentation, Code Refinery and Improvements
 
 
 <h2 < id = 'Acknowedgement'> Acknowedgement:<h2/>
+
+#####
 
 Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
 
