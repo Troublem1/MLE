@@ -51,4 +51,4 @@ class MLETransformer(BaseEstimator, TransformerMixin):
         returns:
                 returns a dictionary of quantitative codes and their original labels
             '''
-        print(dict(zip(self.codedict[key],self.labeldict.get(key))))
+        return dict(zip(self.codedict[key],self.labeldict.get(key)))
