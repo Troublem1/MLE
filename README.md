@@ -1,5 +1,4 @@
 # MultiLabel-Transformer
-
 MultiLabel-Transformer is an extended version of a LabelEncode, such that, it encodes multiple categorical columns to numeric in any workflow or pipeline. It was built upon Sciki-learn and distributed under the GPL-3.0 License.
 
 
@@ -39,7 +38,8 @@ ELSE if you have conda:
 
 
 <h2 id = 'Development'>  Development<h2/>
-####
+
+
 We welcome new contributors of all experience levels.
 
 
@@ -57,6 +57,7 @@ Important links
 
 
 <h2 id = 'Contributing'>  Contributing:<h2/>
+
 
 ##### Interested in contributing?
 well then, fork, clone and started!!
