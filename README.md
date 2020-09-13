@@ -58,7 +58,6 @@ Important links
 
 <h2 id = 'Contributing'>  Contributing:<h2/>
 
-
 ##### Interested in contributing?
 
 well then, fork, clone and started!!
