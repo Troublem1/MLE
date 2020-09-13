@@ -1,6 +1,8 @@
 # MultiLabel-Transformer
 
-MultiLabel-Transformer is an extended version of a LabelEncode, such that, it encodes multiple categorical columns to numeric in any workflow or pipeline. It was built upon Sciki-learn and distributed under the GPL-3.0 License.
+MultiLabel-Transformer is an extended version of a LabelEncode, such that, it encodes multiple categorical columns to numeric in any workflow or pipeline. It was built 
+
+upon Sciki-learn and distributed under the GPL-3.0 License.
 
 
 ## Content
@@ -23,27 +25,8 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
  -----------------------------------------------
 <h2 id = 'Installation'> Installation <h2/>
 Use pip to install, if you already have a working installation of sckit-learn and pandas
-- <code>pip install -U MultiLabel_Transformer<code/>
+<code>pip install -U MultiLabel_Transformer<code/>
 
 ELSE if you have conda:
-- <code>conda install MultiLabel_Transformer<code/>
+<code>conda install MultiLabel_Transformer<code/>
 
---------------------------------------
-<h2 id = 'Development'>  Development<h2/>
-<p>We welcome new contributors of all experience levels.<p/>
-Important links
-- Official source code repo: [here]('https://github.com/Troublem1/MLE') 
-- Download releases: [here](https://pypi.org/project/MultiLabel-Transformer/)
-- Issue tracker: [here](https://github.com/Troublem1/MLE/issues)
-
- -----------------------------------------------
-<h2 id = 'Contributing'>  Contributing:<h2/>
-<p>interested in contributing?, fork, clone and started!!<p/>
-
- -----------------------------------------------
-<h2 id = 'Help and Support'> Help and Support<h2/>
-<p>Documentation, Code Refinery and Improvements<p/>
-
- -----------------------------------------------
-< id = 'Acknowedgement'> Acknowedgement:<h2/>
-<p>Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.<p/>
