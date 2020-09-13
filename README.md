@@ -14,6 +14,7 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 <body>
 <h2 id = 'Installation Dependencies'> Installation Dependencies <h2/>
+
 <p>
 MultiLabel-Transformer requires:
 Python (>= 3.6)
@@ -43,7 +44,7 @@ Important links
 - Issue tracker: https://github.com/Troublem1/MLE/issues
 <p/>
 
-<h2 id = 'Contributing'>  Contributing<h2/>:
+<h2 id = 'Contributing'>  Contributing:<h2/>
 <p>
 interested in contributing?, fork, clone and started!!
 <p/>
