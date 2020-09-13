@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='MultiLabel_Transformer',
-      version='0.2',
+      version='0.3',
       author="Emmanuel Siaw Darko",
       author_email="immanuelsiawdarko@gmail.com",
       description='An Extended Transformer version of LabelEncoder that preprocesses more than one column in a dataset.',
