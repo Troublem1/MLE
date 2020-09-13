@@ -16,7 +16,7 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 <h2 id = 'Installation Dependencies'> Installation Dependencies <h2/>
 
-#### MultiLabel-Transformer requires:
+MultiLabel-Transformer requires:
 - Python (>= 3.6)
 - scikit-learn(>=0.23.2)
 - pandas(>= 1.1.2)
@@ -29,7 +29,7 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 <h3 id = 'Installation'> Installation <h3/>
 
-#### Use pip to install, if you already have a working installation of sckit-learn and pandas
+Use pip to install, if you already have a working installation of sckit-learn and pandas
 
     pip install -U MultiLabel_Transformer
 
@@ -43,12 +43,13 @@ ELSE if you have conda:
 
 
 
-<h3 id = 'Development'>  Development<h3/>
+<h2 id = 'Development'>  Development<h2/>
 
-#### We welcome new contributors of all experience levels.
+We welcome new contributors of all experience levels.
 
 
 Important links
+
 - Official source code repo: [here]('https://github.com/Troublem1/MLE') 
 - Download releases: [here](https://pypi.org/project/MultiLabel-Transformer/)
 - Issue tracker: [here](https://github.com/Troublem1/MLE/issues)
@@ -60,11 +61,9 @@ Important links
 
 
 
-<h3 id = 'Contributing'>  Contributing:<h3/>
+<h2 id = 'Contributing'>  Contributing:<h2/>
 
-#### interested in contributing?, fork, clone and started!!
-
-
+interested in contributing?, fork, clone and started!!
 
 
 
@@ -73,18 +72,20 @@ Important links
 
 
 
-<h3 id = 'Help and Support'> Help and Support<h3/>
-
-#### Documentation, Code Refinery and Improvements
 
 
+<h2 id = 'Help and Support'> Help and Support<h2/>
 
-
+Documentation, Code Refinery and Improvements
 
 
 
 
-<h3 < id = 'Acknowedgement'> Acknowedgement:<h3/>
 
-#### Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
+
+
+
+<h2 < id = 'Acknowedgement'> Acknowedgement:<h2/>
+
+Special thanks to WorldQuant University and Udacity:AWS Scholarship, for their awesome lecture content.
 
