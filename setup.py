@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='MultiLabel_Tranformer',
+setup(name='MultiLabel_Transformer',
       version='0.2',
       author="Emmanuel Siaw Darko",
       author_email="immanuelsiawdarko@gmail.com",
