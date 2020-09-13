@@ -25,7 +25,7 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 
 
-<h3 id = 'Installation'> Installation <h3/>
+<h2 id = 'Installation'> Installation <h2/>
 
 ##### Use pip to install, if you already have a working installation of sckit-learn and pandas
 
@@ -51,9 +51,10 @@ We welcome new contributors of all experience levels.
 
 Important links
 
-- Official source code repo: [here]('https://github.com/Troublem1/MLE') 
 - Download releases: [here](https://pypi.org/project/MultiLabel-Transformer/)
 - Issue tracker: [here](https://github.com/Troublem1/MLE/issues)
+- Official source code repo: [here]('https://github.com/Troublem1/MLE') 
+
 
 
 
