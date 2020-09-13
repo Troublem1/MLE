@@ -31,7 +31,7 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 #### Use pip to install, if you already have a working installation of sckit-learn and pandas
 
-- pip install -U MultiLabel_Transformer
+- <code>pip install -U MultiLabel_Transformer<code/>
 
 ELSE if you have conda:
 
