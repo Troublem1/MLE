@@ -4,7 +4,8 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 
 ## Content
 - <a href='#Installation Dependencies'>Installation Dependencies<a/>
-- <a href='#Installation Dependencies'>Installation
+- <a href='#Installation Dependencies'>Installation<a/>
+- <a href='#How To Use'> How To Use <a/>
 - <a href='#Development'>Development<a/>
 - <a href='#Contributing'>Contributing<a/>
 - <a href='#Help and Support'>Help and Support<a/>
@@ -21,6 +22,11 @@ MultiLabel-Transformer is an extended version of a LabelEncode, such that, it en
 - pandas(>= 1.1.2)
 
 
+
+
+<h2 id='How To Use'> How To Use <h2/>
+
+to be filled
 
 
 <h3 id = 'Installation'> Installation <h3/>
