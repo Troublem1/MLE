@@ -16,7 +16,7 @@ upon Sciki-learn and distributed under the GPL-3.0 License.
  -----------------------------------------------
 <h2 id = 'Installation Dependencies'> # Installation Dependencies <h2/>
 
-> MultiLabel-Transformer requires:
+MultiLabel-Transformer requires:
 
 - Python (>= 3.6)
 - scikit-learn(>=0.23.2)
